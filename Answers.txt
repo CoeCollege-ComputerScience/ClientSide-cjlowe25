@@ -1,0 +1,6 @@
+For the data in my dataset,
+name: incase the user knows what they are looking for so they can just search the name of the club they want (filter)
+subject: incase the user knows they just want to do something with a related subject so they can search by that (filter)
+location: For if the user needs to know where they have to go to engage with the club (filter)
+keywords: Just extra words they are highly correlated with the club to help with searching (filter)
+section: Once a user clicks on a row, they'll be sent to the area associated with this section (mapped point)
